@@ -9,6 +9,11 @@ Includes a **Game Over** screen with a **Retry** button for replayability.
 
 ---
 
+## 🔧 Screenshot
+
+<img width="559" alt="Screenshot 2025-05-14 at 9 34 38 PM" src="https://github.com/user-attachments/assets/3939a335-dfcf-4ec7-a016-11718665dff1" />
+
+
 ## 🔧 Features
 
 | Feature               | Description                                        |
